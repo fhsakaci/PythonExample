@@ -1,4 +1,4 @@
-sayi1=7
+sayi1=50
 sayi2=7
 sayi3=100
 
